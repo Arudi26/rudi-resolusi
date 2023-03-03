@@ -1,3 +1,4 @@
 rudi resolusi
 - konsisten untuk menjadi fronted development
 - menguasai html, css, javascript, bootstrap dan reactjs
+- menyelesaikan kursus sampai sebelum lebaran
